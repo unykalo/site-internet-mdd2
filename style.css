@@ -1,0 +1,91 @@
+@import url('@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Raleway:wght@200&display=swap);
+
+.body{background-image: url("fondcv.png");}
+
+body{font-family: 'Montserrat', serif;}
+
+h1, h2, h3, h4, a{
+	font-family: 'Montserrat', sans-serif;
+	text-shadow: 1px 1px;
+	color: rgb(40, 40, 40);}
+
+h1{color: black;}
+
+h2{color: black;}
+
+a{text-decoration: none;
+}
+
+.section2{
+	background-image: url("fond2.png");}
+
+.section3{
+	background-image: url("fond3.png");}
+
+.section5{
+	background-image: url("fond4.png");}
+
+
+.section6{
+	background-image: url("fond6.png");}
+
+.section7{
+	background-image: url("fond7.png");}
+
+.bannere {
+	height: 60vh;
+	background-image: url("fond.png");
+	background-size: cover;
+	background-position: center;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: left;}
+
+.banner h1, .banner h2 {
+	text-shadow: 1px 1px 1px black;}
+
+.banner h1, .banner h2 {
+	text-shadow: 1px 1px 1px black;}
+
+#logo{width: 100px;}
+
+.img-circle {border-radius: 50%;}
+
+.btn-blue:hover {background-color: white; color: blue; transition: 1s;}
+
+.list-inline li{display: inline;}
+.list list-inline{padding: 0;}
+.list-inline a {font-size: 48px; color: rgba(0, 0, 0,0,4);}
+.list-inline a:hover {color:  black;}
+
+.img-responsive{
+max-width : 100%;
+heigth: auto;
+display: block;
+}
+
+@media (min-width: 576px){
+}
+
+@media (min-width: 768px){
+}
+
+@media (min-width: 992px){
+}
+
+@media (min-width: 1200px){
+}
+
+@media (min-width: 1400px){
+}
+
+
+
+
+
+
+
+
